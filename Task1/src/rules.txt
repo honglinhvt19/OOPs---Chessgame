@@ -1,0 +1,24 @@
+1. Movement of Pieces:
+Pawn: Moves forward one square, captures diagonally forward, and has special moves like en passant and pawn promotion.
+Rook: Moves horizontally or vertically any number of squares.
+Knight: Moves in an "L" shape (two squares in one direction, then one square perpendicular).
+Bishop: Moves diagonally any number of squares.
+Queen: Combination of rook and bishop (moves horizontally, vertically, or diagonally).
+King: Moves one square in any direction.
+2. Objective:
+The primary objective is to checkmate the opponent's king, which means the king is in a position to be captured (in check) and there's no legal move to escape.
+3. Turn Structure:
+White moves first, then players alternate turns.
+On each turn, a player must make one move with one of their pieces, subject to the rules of movement.
+4. Special Moves:
+Castling: A king can move two squares towards a rook and the rook moves to the square next to the king. Conditions for castling: neither piece has moved before, the squares between the king and rook are empty, and the king is not in check.
+En passant: A pawn can capture an opponent's pawn that has just moved two squares forward from its starting position.
+Pawn promotion: When a pawn reaches the opposite end of the board, it can be promoted to any other piece (except a king).
+5. Check and Checkmate:
+Check: When the opponent's king is under attack, it is said to be in check.
+Checkmate: If the opponent's king is in check and there's no legal move to escape, it's checkmate, and the game ends.
+6. Draw:
+A draw can occur due to stalemate (when a player has no legal moves and their king is not in check), insufficient material (when neither player has enough pieces to force a checkmate), threefold repetition (when the same position occurs three times with the same player to move), or the fifty-move rule (when no pawn is moved and no capture is made for fifty consecutive moves).
+7. Resignation and Win:
+A player may resign if they believe they have no chance of winning.
+The game is won by the player who checkmates their opponent's king.
